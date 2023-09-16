@@ -1,29 +1,43 @@
-### Hi there 👋
+### 👋 Hi, I'm Quetzal-coalt or Nizars
 
-👋 Hi, I'm Quetzal-coalt or Nizars
+---
 
-🔭 Passionate about security and new technologies, I've delved into several fascinating areas. Even though I'm still learning, I'm very enthusiastic about sharing and collaborating.
+🔭 **About Me:**  
+Passionate about security and new technologies, I've delved into several fascinating areas. Even though I'm still learning, I'm very enthusiastic about sharing and collaborating.
 
-🌱 Currently Learning:
+---
 
-🔐 Mifare Technology: I'm familiar with Mifare technologies and their applications in the security world.
+🌱 **Currently Learning**:
 
-📡 WiFi Pentesting: Experimenting with pentesting techniques for WiFi networks.
+- 🔐 **Mifare Technology**:  
+  I'm familiar with Mifare technologies and their applications in the security world.
 
-📱 APK Reversing: I've dabbled in reverse engineering APK files to understand their inner workings.
+- 📡 **WiFi Pentesting**:  
+  Experimenting with pentesting techniques for WiFi networks.
 
-🐧 Linux Server Management: I've worked with various Linux distributions and have gained basic server management skills.
+- 📱 **APK Reversing**:  
+  I've dabbled in reverse engineering APK files to understand their inner workings.
 
-📻 RF (1MHz to 6GHz): Exploring the vast spectrum of radio frequencies, understanding their properties, and how they can be applied in technology and security.
+- 🐧 **Linux Server Management**:  
+  I've worked with various Linux distributions and have gained basic server management skills.
 
-🎯 TryHackMe: Currently learning and experimenting on TryHackMe.
+- 📻 **RF (1MHz to 6GHz)**:  
+  Exploring the vast spectrum of radio frequencies, understanding their properties, and how they can be applied in technology and security.
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Nizars.png" alt="TryHackMe">
+- 🎯 **TryHackMe**:  
+  Currently learning and experimenting on TryHackMe.  
+  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Nizars.png)
 
-🔍 OSINT (Open Source Intelligence): Exploring OSINT techniques to gather information from public sources.
+- 🔍 **OSINT (Open Source Intelligence)**:  
+  Exploring OSINT techniques to gather information from public sources.
 
-🤔 How I Can Contribute:
+---
+
+🤔 **How I Can Contribute**:  
 Even though I'm still in the learning phase, I'm open to collaborating on projects, sharing knowledge, or even discussing new ideas. Feel free to reach out!
 
-📫 How to Reach Me:
-Email: m.boulkhsoum@gmail.com
+---
+
+📫 **How to Reach Me**:  
+**Email**: [m.boulkhsoum@gmail.com](mailto:m.boulkhsoum@gmail.com)
+
