@@ -21,6 +21,9 @@ Passionate about security and new technologies, I've delved into several fascina
 - 🐧 **Linux Server Management**:  
   I've worked with various Linux distributions and have gained basic server management skills.
 
+- 🐳 **Docker**:  
+  Familiarizing myself with containerization, I'm exploring Docker to understand and utilize its powerful deployment and virtualization capabilities.
+
 - 📻 **RF (1MHz to 6GHz)**:  
   Exploring the vast spectrum of radio frequencies, understanding their properties, and how they can be applied in technology and security.
 
