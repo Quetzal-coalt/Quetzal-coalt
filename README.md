@@ -26,7 +26,8 @@ Passionate about security and new technologies, I've delved into several fascina
 
 - 🎯 **TryHackMe**:  
   Currently learning and experimenting on TryHackMe.  
-  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Nizars.png)
+  [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Nizars.png)](https://tryhackme.com/p/Nizars)
+
 
 - 🔍 **OSINT (Open Source Intelligence)**:  
   Exploring OSINT techniques to gather information from public sources.
