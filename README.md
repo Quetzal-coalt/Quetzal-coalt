@@ -1,5 +1,5 @@
 ### Hi there 👋
-<script src="https://tryhackme.com/badge/437604"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Nizars.png" alt="TryHackMe">
 <!--
 **Quetzal-coalt/Quetzal-coalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
