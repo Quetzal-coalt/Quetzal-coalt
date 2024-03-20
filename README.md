@@ -43,5 +43,5 @@ Even though I'm still in the learning phase, I'm open to collaborating on projec
 ---
 
 📫 **How to Reach Me**:  
-**Email**: [m.boulkhsoum@gmail.com](mailto:m.boulkhsoum@gmail.com)
+**Email**: [m.boulkhsoum@gmail.com](mailto:roots.l33t@gmail.com)
 
