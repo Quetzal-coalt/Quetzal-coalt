@@ -3,7 +3,7 @@
 ---
 
 🔭 **About Me:**  
-Passionate about security and new technologies, I've delved into several fascinating areas. Even though I'm still learning, I'm very enthusiastic about sharing and collaborating.
+With a strong passion for security and emerging technologies, I have immersed myself in several intriguing fields. Currently, I work as an Infrastructure and Network Technician, where I apply my expertise to enhance system performance and security. While I continue to expand my knowledge, I am eager to share insights and collaborate with others in the industry.
 
 ---
 
